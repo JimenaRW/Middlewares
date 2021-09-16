@@ -17,3 +17,7 @@ header nav ul{
 header a {
   text-transform: capitalize;
 }
+
+body img {
+  width: 450px;
+}

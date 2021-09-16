@@ -27,3 +27,5 @@ Se ingreso en la ruta : /
 Se ingreso en la ruta : /admin
 Se ingreso en la ruta : /login
 Se ingreso en la ruta : /admin?user=Ada
+Se ingreso en la ruta : /
+Se ingreso en la ruta : /admin?user=Pablo

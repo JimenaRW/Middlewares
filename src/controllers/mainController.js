@@ -18,6 +18,8 @@ module.exports = {
         res.render('login');
     },
     admin : (req,res) => {
-        res.render('admin/index');
+        res.render('admin/index', {
+            user : req.query.user
+        });
     }
 }

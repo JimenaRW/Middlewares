@@ -5,7 +5,7 @@ const access = (req,res,next) => {
         next();
     }
     else {
-        res.render('errorAccess', { title : 'No posees prvilegios de administrador' })
+        res.render('errorAccess', { title : 'No posees privilegios de administrador' })
     }
 }
 
